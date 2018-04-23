@@ -26,9 +26,9 @@
   "author": "various",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/litehelpers/cordova-sqlite-legacy/issues"
+    "url": "https://github.com/complianceexperts/cordova-sqlite-legacy/issues"
   },
-  "homepage": "https://github.com/litehelpers/cordova-sqlite-legacy",
+  "homepage": "https://github.com/complianceexperts/cordova-sqlite-legacy",
   "dependencies": {
     "cordova-sqlite-ext-deps": "0.4.1"
   },
